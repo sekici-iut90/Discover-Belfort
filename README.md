@@ -11,20 +11,7 @@ L'objectif est de créer une application Flutter fonctionnelle et interactive po
 
 ---
 
-## 📅 Date limite de soumission
-
-La date limite est strictement fixée au :  
-**18 novembre 2025, 23:59:59 CET**  
-
-Assurez-vous de soumettre votre projet avant cette date.
-
----
-
 ## 🔗 Liens utiles
-
-- Matériel du module Flutter :  
-[Google Drive](https://drive.google.com/drive/folders/1k0hgji-prNvpdp2B6vkyIZ-rQYxkXcZa?usp=sharing)  
-ou dans la section **Fichiers** de MS Teams dans le canal de votre groupe.
 
 - Playlist partagée en classe pour s’inspirer 🎧:  
 [Spotify Playlist](https://open.spotify.com/playlist/4hxrMeueaDrut1z2CYGkBJ?si=ZIFwYDieRzmgB_PhCer45w)
