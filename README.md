@@ -6,8 +6,9 @@ Bienvenue sur le dépôt GitHub du projet **Discover Belfort**, réalisé dans l
 
 ## Description du projet
 
-Ce projet correspond à un **travail pratique Flutter** à rendre pour le module BIP – Module 1.  
+Ce projet correspond à un travail pratique Flutter à rendre pour le module BIP – Module 1.  
 L'objectif est de créer une application Flutter fonctionnelle et interactive pour découvrir la ville de Belfort.
+Mais également d'apprendre les bases de flutter
 
 ---
 
@@ -25,3 +26,15 @@ L'objectif est de créer une application Flutter fonctionnelle et interactive po
 1. Cloner le dépôt :  
 ```bash
 git clone https://github.com/sekici-iut90/Discover-Belfort.git
+```
+
+2. Installer les dépendances Flutter :  
+```bash
+flutter pub get
+```
+
+3. Lancer l’application sur un émulateur ou un appareil connecté :  
+```bash
+flutter run
+```
+
